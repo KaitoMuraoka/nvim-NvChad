@@ -5,6 +5,12 @@
 # About
 Neovim from [NvChad](https://nvchad.com)
 
+# Setup
+1. Install NeoVim
+2. Clone this Repository
+3. Rename nvim : `mv nvim-NvChad nvim`
+
+
 # Plugins
 ## Plugins set up by NvChad
 - Many beautiful themes, theme toggler by our [base46 plugin](https://github.com/NvChad/base46)
